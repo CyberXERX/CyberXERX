@@ -3,7 +3,7 @@
 
 - 🔭 Software Engineer
 
-- 🌱 I’m Software Engineer!
+- 🌱 “Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn.”
 
 
 
